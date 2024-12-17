@@ -1,0 +1,16 @@
+Columns in the output: 108
+Column age = 1
+Column workclass = 2
+Column fnlwgt = 11
+Column education = 12
+Column education-num = 28
+Column marital = 29
+Column occupation = 36
+Column relationship = 51
+Column race = 57
+Column sex = 62
+Column capital-gain = 64
+Column capital-loss = 65
+Column hours-per-week = 66
+Column native_country = 67
+Column income>50k = 109
